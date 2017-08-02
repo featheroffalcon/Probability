@@ -1,1 +1,2 @@
-
+The Birthdayproblem:
+  Imagine a room full of people. Now every person in this room has a random date as birthday. What do you think is the chance that two or   more persons in this room have the same birthday? Now obviously when you have 366 that chance is 100%. But even when you have only 70     people in your room that chance is still about 99.89%. Compile the code and try it out!
